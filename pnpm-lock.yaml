@@ -66,7 +66,7 @@ importers:
         specifier: ^2.0.3
         version: 2.0.6(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       tailwind-merge:
-        specifier: ^3.1.0
+        specifier: ^3.3.1
         version: 3.3.1
       tw-animate-css:
         specifier: ^1.2.5
